@@ -1,0 +1,15 @@
+//string
+let a : string = "hello"
+console.log(a)
+
+//number
+let b :number = 123
+console.log(b)
+
+//boolean
+let c : boolean = true
+console.log(c)
+
+//null
+let d :null = null 
+console.log(d)
