@@ -13,3 +13,11 @@ console.log(c)
 //null
 let d :null = null 
 console.log(d)
+
+//undefined
+let e: undefined = undefined
+console.log(e)
+
+//symbol
+let s: symbol = Symbol("id")
+console.log(s)    
